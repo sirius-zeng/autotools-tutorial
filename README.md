@@ -13,6 +13,11 @@ Github上可以下载到这份培训文档配套的[demo codes](https://github.c
 - automake (GNU automake) 1.16.1
 - libtool (GNU libtool) 2.4.6
 
+## 关于Demos
+- autoconf basics demos: demo01 ~ demo05b
+- automake basics demos: demo06 ~ demo07
+
+
 ## 参考文档：
 - http://free-electrons.com/pub/conferences/2016/elc/petazzoni-autotools-tutorial/
 - https://github.com/tpetazzoni/autotools-demo
