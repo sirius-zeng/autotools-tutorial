@@ -16,6 +16,8 @@ Github上可以下载到这份培训文档配套的[demo codes](https://github.c
 ## 关于Demos
 - autoconf basics demos: demo01 ~ demo05b
 - automake basics demos: demo06 ~ demo07
+- autoconf advanced demos: demo08 ~ demo14
+- automake advanced demos: demo15 ~ demo21
 
 
 ## 参考文档：
