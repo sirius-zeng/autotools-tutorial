@@ -9,7 +9,7 @@ Github上可以下载到这份培训文档配套的[demo codes](https://github.c
 感谢这些文档和书籍的作者们，他们的无私精神是我们的典范！
 
 ## 整体架构
-![](/doc/pics/overall%20organization.png)
+![](doc/pics/overall%20organization.png)
 
 ## 测试环境
 - autoconf (GNU Autoconf) 2.69
